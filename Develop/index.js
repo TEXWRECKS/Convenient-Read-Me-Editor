@@ -67,3 +67,7 @@ inquirer.prompt([
 
 // function call to initialize program
 // init();
+
+
+
+"Copyright 2020 Greg Malone"
