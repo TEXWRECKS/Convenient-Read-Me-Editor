@@ -54,14 +54,6 @@ const questions = [
     }
 ]
 
-// function to write README file
-// function writeToFile(fileName, data) {
-// }
-
-// inquirer.prompt(questions).then((response) => {
-//     console.log(response)
-// })
-
 inquirer.prompt(questions).then(response => {
     console.log(response)
         // This creates the Title
@@ -128,6 +120,3 @@ inquirer.prompt(questions).then(response => {
             }
         });
     });
-
-// function call to initialize program
-// init()
